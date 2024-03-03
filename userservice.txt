@@ -1,2 +1,5 @@
 Get the useer data...
 process the data
+
+
+create an avtar fo ruser
